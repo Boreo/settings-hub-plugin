@@ -8,3 +8,7 @@ nbactions.xml
 nb-configuration.xml
 nbproject/
 *.class
+# OS and local agent files
+.DS_Store
+Thumbs.db
+.claude/
